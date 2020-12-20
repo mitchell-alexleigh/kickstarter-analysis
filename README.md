@@ -11,4 +11,4 @@ Below I describe my process and provide my findings.
 
 To analyze the outcome data and its relationship to the launch date I created the following pivot table in the Theater Outcomes by Launch Date.
 
-![Pivot_Table](kickstarter-analysis/Resourses/Pivot_Table.png)
+![Pivot_Table](https://github.com/mitchell-alexleigh/kickstarter-analysis/blob/main/Resourses/Pivot_Table.png?raw=true)
