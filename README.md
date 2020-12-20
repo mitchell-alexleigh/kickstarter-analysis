@@ -65,7 +65,7 @@ The shows December having the least amount of successful Theater Campaign launch
 ### Theater Outcomes Based on Launch Dates
 ![outcome_vs_goals](/Resourses/Outcome_vs_Goals.png)
 
-### Outcome Based Goals: Conclusion 
+### Outcome Based on Goals: Conclusion 
 #### Theater Kickstarter Campaigns with a fundraising goal between $5,000 and $9,999 are the most successful. 
 According to the Outcome Based on Goals graph, campaigns with goals between $5,000 and $9,999 have the highest success rate at 100% successful. 
 
